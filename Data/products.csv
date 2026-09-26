@@ -1,0 +1,181 @@
+product_id,product_name,category,subcategory,base_price,unit_cost
+P0001,Laptops Basic 1,Technology,Laptops,39.36,21.51
+P0002,Laptops Pro 2,Technology,Laptops,26.05,18.9
+P0003,Laptops Plus 3,Technology,Laptops,43.42,24.99
+P0004,Laptops Elite 4,Technology,Laptops,76.71,37.45
+P0005,Laptops Basic 5,Technology,Laptops,24.48,17.12
+P0006,Laptops Pro 6,Technology,Laptops,24.48,13.22
+P0007,Laptops Plus 7,Technology,Laptops,79.56,63.63
+P0008,Laptops Elite 8,Technology,Laptops,46.94,37.76
+P0009,Laptops Basic 9,Technology,Laptops,21.01,16.62
+P0010,Laptops Pro 10,Technology,Laptops,40.56,24.57
+P0011,Laptops Plus 11,Technology,Laptops,21.09,10.23
+P0012,Laptops Elite 12,Technology,Laptops,21.06,16.76
+P0013,Monitors Basic 1,Technology,Monitors,33.36,20.87
+P0014,Monitors Pro 2,Technology,Monitors,8.22,6.65
+P0015,Monitors Plus 3,Technology,Monitors,9.29,7.5
+P0016,Monitors Elite 4,Technology,Monitors,19.78,15.23
+P0017,Monitors Basic 5,Technology,Monitors,14.76,8.56
+P0018,Monitors Pro 6,Technology,Monitors,34.96,21.36
+P0019,Monitors Plus 7,Technology,Monitors,15.8,12.16
+P0020,Monitors Elite 8,Technology,Monitors,11.38,6.69
+P0021,Monitors Basic 9,Technology,Monitors,73.9,39.73
+P0022,Monitors Pro 10,Technology,Monitors,24.61,16.47
+P0023,Monitors Plus 11,Technology,Monitors,29.78,23.77
+P0024,Monitors Elite 12,Technology,Monitors,11.29,8.09
+P0025,Phones Basic 1,Technology,Phones,20.01,13.48
+P0026,Phones Pro 2,Technology,Phones,30.63,15.71
+P0027,Phones Plus 3,Technology,Phones,13.49,9.3
+P0028,Phones Elite 4,Technology,Phones,36.39,29.72
+P0029,Phones Basic 5,Technology,Phones,19.29,10.18
+P0030,Phones Pro 6,Technology,Phones,23.58,15.47
+P0031,Phones Plus 7,Technology,Phones,19.28,15.01
+P0032,Phones Elite 8,Technology,Phones,95.01,69.53
+P0033,Phones Basic 9,Technology,Phones,28.25,20.25
+P0034,Phones Pro 10,Technology,Phones,14.33,10.3
+P0035,Phones Plus 11,Technology,Phones,48.65,29.3
+P0036,Phones Elite 12,Technology,Phones,12.89,7.47
+P0037,Accessories Basic 1,Technology,Accessories,32.65,24.66
+P0038,Accessories Pro 2,Technology,Accessories,7.97,6.02
+P0039,Accessories Plus 3,Technology,Accessories,12.02,9.31
+P0040,Accessories Elite 4,Technology,Accessories,32.39,25.6
+P0041,Accessories Basic 5,Technology,Accessories,46.06,30.12
+P0042,Accessories Pro 6,Technology,Accessories,31.86,20.73
+P0043,Accessories Plus 7,Technology,Accessories,26.44,19.87
+P0044,Accessories Elite 8,Technology,Accessories,23.44,16.43
+P0045,Accessories Basic 9,Technology,Accessories,10.9,7.83
+P0046,Accessories Pro 10,Technology,Accessories,17.85,13.4
+P0047,Accessories Plus 11,Technology,Accessories,21.13,16.54
+P0048,Accessories Elite 12,Technology,Accessories,56.66,33.71
+P0049,Printers Basic 1,Technology,Printers,35.64,21.66
+P0050,Printers Pro 2,Technology,Printers,9.06,4.64
+P0051,Printers Plus 3,Technology,Printers,35.19,23.81
+P0052,Printers Elite 4,Technology,Printers,22.19,10.92
+P0053,Printers Basic 5,Technology,Printers,18.36,11.72
+P0054,Printers Pro 6,Technology,Printers,42.42,28.19
+P0055,Printers Plus 7,Technology,Printers,55.71,32.17
+P0056,Printers Elite 8,Technology,Printers,52.21,35.55
+P0057,Printers Basic 9,Technology,Printers,16.52,8.1
+P0058,Printers Pro 10,Technology,Printers,23.31,11.48
+P0059,Printers Plus 11,Technology,Printers,35.35,26.85
+P0060,Printers Elite 12,Technology,Printers,53.74,32.38
+P0061,Chairs Basic 1,Furniture,Chairs,20.87,10.92
+P0062,Chairs Pro 2,Furniture,Chairs,25.26,16.61
+P0063,Chairs Plus 3,Furniture,Chairs,13.89,10.3
+P0064,Chairs Elite 4,Furniture,Chairs,13.1,7.25
+P0065,Chairs Basic 5,Furniture,Chairs,48.33,33.43
+P0066,Chairs Pro 6,Furniture,Chairs,68.82,35.03
+P0067,Chairs Plus 7,Furniture,Chairs,27.2,13.53
+P0068,Chairs Elite 8,Furniture,Chairs,54.72,36.15
+P0069,Chairs Basic 9,Furniture,Chairs,36.06,23.94
+P0070,Chairs Pro 10,Furniture,Chairs,18.74,13.06
+P0071,Chairs Plus 11,Furniture,Chairs,36.05,26.2
+P0072,Chairs Elite 12,Furniture,Chairs,77.46,62.88
+P0073,Desks Basic 1,Furniture,Desks,27.85,18.26
+P0074,Desks Pro 2,Furniture,Desks,78.81,46.48
+P0075,Desks Plus 3,Furniture,Desks,5.19,3.89
+P0076,Desks Elite 4,Furniture,Desks,48.63,27.82
+P0077,Desks Basic 5,Furniture,Desks,30.16,18.98
+P0078,Desks Pro 6,Furniture,Desks,23.47,11.89
+P0079,Desks Plus 7,Furniture,Desks,30.25,14.78
+P0080,Desks Elite 8,Furniture,Desks,7.83,6.32
+P0081,Desks Basic 9,Furniture,Desks,24.71,18.88
+P0082,Desks Pro 10,Furniture,Desks,35.95,25.76
+P0083,Desks Plus 11,Furniture,Desks,74.49,46.11
+P0084,Desks Elite 12,Furniture,Desks,20.35,10.97
+P0085,Bookcases Basic 1,Furniture,Bookcases,16.85,8.98
+P0086,Bookcases Pro 2,Furniture,Bookcases,20.57,11.62
+P0087,Bookcases Plus 3,Furniture,Bookcases,51.68,34.46
+P0088,Bookcases Elite 4,Furniture,Bookcases,35.29,25.51
+P0089,Bookcases Basic 5,Furniture,Bookcases,20.2,14.23
+P0090,Bookcases Pro 6,Furniture,Bookcases,39.79,22.89
+P0091,Bookcases Plus 7,Furniture,Bookcases,30.36,24.43
+P0092,Bookcases Elite 8,Furniture,Bookcases,53.5,39.1
+P0093,Bookcases Basic 9,Furniture,Bookcases,18.06,12.07
+P0094,Bookcases Pro 10,Furniture,Bookcases,23.04,15.85
+P0095,Bookcases Plus 11,Furniture,Bookcases,22.09,13.75
+P0096,Bookcases Elite 12,Furniture,Bookcases,11.01,6.21
+P0097,Tables Basic 1,Furniture,Tables,34.55,20.77
+P0098,Tables Pro 2,Furniture,Tables,33.77,24.91
+P0099,Tables Plus 3,Furniture,Tables,28.6,13.87
+P0100,Tables Elite 4,Furniture,Tables,24.47,12.71
+P0101,Tables Basic 5,Furniture,Tables,11.36,5.63
+P0102,Tables Pro 6,Furniture,Tables,21.68,10.71
+P0103,Tables Plus 7,Furniture,Tables,22.81,17.58
+P0104,Tables Elite 8,Furniture,Tables,16.92,12.17
+P0105,Tables Basic 9,Furniture,Tables,25.67,16.46
+P0106,Tables Pro 10,Furniture,Tables,37.06,19.02
+P0107,Tables Plus 11,Furniture,Tables,97.13,62.86
+P0108,Tables Elite 12,Furniture,Tables,31.93,20.47
+P0109,Storage Basic 1,Furniture,Storage,33.7,18.16
+P0110,Storage Pro 2,Furniture,Storage,27.16,17.04
+P0111,Storage Plus 3,Furniture,Storage,8.19,5.04
+P0112,Storage Elite 4,Furniture,Storage,28.02,19.32
+P0113,Storage Basic 5,Furniture,Storage,29.64,20.63
+P0114,Storage Pro 6,Furniture,Storage,141.33,70.02
+P0115,Storage Plus 7,Furniture,Storage,25.15,15.28
+P0116,Storage Elite 8,Furniture,Storage,34.67,24.02
+P0117,Storage Basic 9,Furniture,Storage,27.87,18.15
+P0118,Storage Pro 10,Furniture,Storage,13.33,10.28
+P0119,Storage Plus 11,Furniture,Storage,59.91,42.17
+P0120,Storage Elite 12,Furniture,Storage,46.47,24.88
+P0121,Paper Basic 1,Office Supplies,Paper,47.66,24.02
+P0122,Paper Pro 2,Office Supplies,Paper,15.78,11.02
+P0123,Paper Plus 3,Office Supplies,Paper,70.94,34.69
+P0124,Paper Elite 4,Office Supplies,Paper,11.46,7.78
+P0125,Paper Basic 5,Office Supplies,Paper,41.74,33.38
+P0126,Paper Pro 6,Office Supplies,Paper,118.37,79.98
+P0127,Paper Plus 7,Office Supplies,Paper,14.97,9.16
+P0128,Paper Elite 8,Office Supplies,Paper,19.73,13.79
+P0129,Paper Basic 9,Office Supplies,Paper,30.41,19.33
+P0130,Paper Pro 10,Office Supplies,Paper,20.55,13.68
+P0131,Paper Plus 11,Office Supplies,Paper,10.4,8.32
+P0132,Paper Elite 12,Office Supplies,Paper,29.8,18.22
+P0133,Binders Basic 1,Office Supplies,Binders,14.29,11.53
+P0134,Binders Pro 2,Office Supplies,Binders,38.78,30.55
+P0135,Binders Plus 3,Office Supplies,Binders,15.68,8.57
+P0136,Binders Elite 4,Office Supplies,Binders,78.06,39.31
+P0137,Binders Basic 5,Office Supplies,Binders,17.13,8.81
+P0138,Binders Pro 6,Office Supplies,Binders,23.12,11.24
+P0139,Binders Plus 7,Office Supplies,Binders,48.37,24.77
+P0140,Binders Elite 8,Office Supplies,Binders,12.81,9.12
+P0141,Binders Basic 9,Office Supplies,Binders,33.04,16.66
+P0142,Binders Pro 10,Office Supplies,Binders,66.66,39.23
+P0143,Binders Plus 11,Office Supplies,Binders,10.03,7.7
+P0144,Binders Elite 12,Office Supplies,Binders,32.14,15.68
+P0145,Pens Basic 1,Office Supplies,Pens,33.75,25.55
+P0146,Pens Pro 2,Office Supplies,Pens,47.38,27.28
+P0147,Pens Plus 3,Office Supplies,Pens,12.76,6.64
+P0148,Pens Elite 4,Office Supplies,Pens,12.08,8.66
+P0149,Pens Basic 5,Office Supplies,Pens,40.02,27.77
+P0150,Pens Pro 6,Office Supplies,Pens,34.57,26.91
+P0151,Pens Plus 7,Office Supplies,Pens,33.54,24.48
+P0152,Pens Elite 8,Office Supplies,Pens,35.7,26.89
+P0153,Pens Basic 9,Office Supplies,Pens,18.32,10.55
+P0154,Pens Pro 10,Office Supplies,Pens,33.15,17.91
+P0155,Pens Plus 11,Office Supplies,Pens,34.48,25.35
+P0156,Pens Elite 12,Office Supplies,Pens,17.92,13.52
+P0157,Labels Basic 1,Office Supplies,Labels,95.85,78.29
+P0158,Labels Pro 2,Office Supplies,Labels,38.78,24.05
+P0159,Labels Plus 3,Office Supplies,Labels,13.14,7.97
+P0160,Labels Elite 4,Office Supplies,Labels,43.67,32.49
+P0161,Labels Basic 5,Office Supplies,Labels,15.13,9.02
+P0162,Labels Pro 6,Office Supplies,Labels,47.54,37.86
+P0163,Labels Plus 7,Office Supplies,Labels,60.53,46.72
+P0164,Labels Elite 8,Office Supplies,Labels,16.72,10.46
+P0165,Labels Basic 9,Office Supplies,Labels,53.31,39.2
+P0166,Labels Pro 10,Office Supplies,Labels,37.27,27.45
+P0167,Labels Plus 11,Office Supplies,Labels,48.63,25.05
+P0168,Labels Elite 12,Office Supplies,Labels,97.8,76.96
+P0169,Envelopes Basic 1,Office Supplies,Envelopes,24.3,15.84
+P0170,Envelopes Pro 2,Office Supplies,Envelopes,17.46,13.29
+P0171,Envelopes Plus 3,Office Supplies,Envelopes,15.99,9.42
+P0172,Envelopes Elite 4,Office Supplies,Envelopes,16.77,13.16
+P0173,Envelopes Basic 5,Office Supplies,Envelopes,27.11,16.6
+P0174,Envelopes Pro 6,Office Supplies,Envelopes,35.58,17.21
+P0175,Envelopes Plus 7,Office Supplies,Envelopes,34.12,26.88
+P0176,Envelopes Elite 8,Office Supplies,Envelopes,48.8,24.94
+P0177,Envelopes Basic 9,Office Supplies,Envelopes,28.74,16.92
+P0178,Envelopes Pro 10,Office Supplies,Envelopes,73.32,58.88
+P0179,Envelopes Plus 11,Office Supplies,Envelopes,24.0,19.28
+P0180,Envelopes Elite 12,Office Supplies,Envelopes,167.02,112.73
