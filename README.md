@@ -1,5 +1,11 @@
 # E-Commerce Sales & Customer Analytics
 
+## 🔗 Live Dashboard
+
+**[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/E-CommerceSalesCustomerAnalyticsSQLTableau/ExecutiveSalesOverview?:language=en-US&:display_count=n&:origin=viz_share_link)**
+
+---
+
 ## 📊 Project Overview
 
 This project is an end-to-end **Data Analytics portfolio project** built to analyze e-commerce sales performance, profitability, customer behavior, product performance, regional performance, acquisition channels, and the relationship between discounting and profit margins.
@@ -174,3 +180,65 @@ order_items
     │ product_id
     ↓
 products
+```
+
+---
+
+# Repository Structure
+
+```text
+E_Commerce-Data_Analysis/
+│
+├── Data/
+│   ├── customers.csv
+│   ├── order_items.csv
+│   └── products.csv
+│
+├── SQL/
+│   ├── 01_database_setup.sql
+│   ├── 02_data_validation.sql
+│   ├── 03_kpi_queries.sql
+│   ├── 04_time_series_analysis.sql
+│   ├── 05_product_analysis.sql
+│   ├── 06_customer_segmentation.sql
+│   ├── 07_geographic_analysis.sql
+│   ├── 08_discount_profitability.sql
+│   └── 09_advanced_queries_ctes_window_functions.sql
+│
+├── Tableau/
+│   └── E-Commerce_Sales_Customer_Analytics.twbx
+│
+└── README.md
+```
+
+> Note: SQL file names above are placeholders reflecting the analysis stages — update them to match your actual file names.
+
+---
+
+# How to Use This Project
+
+1. **Explore the raw data** in the `Data/` folder to understand the structure of customers, products, and order items.
+2. **Run the SQL scripts** in the `SQL/` folder in order — starting with database/table setup, followed by data validation, then the analysis queries (KPIs, time-series, product, customer, geographic, and discount/profitability analysis).
+3. **Open the Tableau workbook** in the `Tableau/` folder, or view the published version directly via the [live dashboard link](#-live-dashboard) above.
+4. **Review the business insights** below to see how the analysis translates into decision-relevant findings.
+
+---
+
+# Key Business Insights
+
+- Revenue and profit trends across the 2024–2025 period highlight seasonal and month-over-month performance shifts.
+- A small set of product categories and top-performing products drive a disproportionate share of total revenue.
+- Certain states and regions consistently outperform others in sales volume, pointing to geographic concentration.
+- Specific customer segments and acquisition channels contribute more strongly to revenue than others, suggesting where marketing and retention efforts may be best focused.
+- Higher discount levels show a measurable impact on profit margins, revealing categories or products where discounting may be eroding profitability.
+- Differences between first-time and returning customer behavior point to opportunities in customer retention strategy.
+
+> Replace the bullet points above with the specific, quantified findings from your own analysis (e.g., "Category X accounts for 32% of total revenue" or "State Y drives 18% of profit").
+
+---
+
+# Author
+
+**Anurag P. Choudhury**
+
+Feel free to connect or reach out with questions, feedback, or collaboration ideas.
